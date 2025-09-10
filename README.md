@@ -1,6 +1,6 @@
 # Handwritten Digit Classifier with PyTorch
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/MNIST-Digit-Classifier-PyTorch/blob/main/your_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priyanshiChaudhary-58/MNIST-Digit-Classifier-PyTorch/blob/main/Handwritten_Digit_Classifier_with_PyTorch.ipynb)
 
 
 This project implements a neural network to classify handwritten digits from the MNIST dataset using **PyTorch**.  
